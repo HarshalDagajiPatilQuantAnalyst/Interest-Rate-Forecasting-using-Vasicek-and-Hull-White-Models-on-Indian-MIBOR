@@ -1,0 +1,2 @@
+# Interest-Rate-Forecasting-using-Vasicek-and-Hull-White-Models-on-Indian-MIBOR
+Forecast Indian MIBOR for 3.5, 4.5, and 5.5-year tenors using:  Vasicek Model  Hull-White Model  Use historical 2-year daily MIBOR data.  Calibrate parameters from historical data.  Implement logic first in Excel, then in Python.  Plot graphs, compare both models, and explain which performs better.  Present findings in a PowerPoint presentation.
